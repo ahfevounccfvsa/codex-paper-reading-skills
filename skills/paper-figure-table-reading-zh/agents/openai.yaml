@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Figure/Table Reading Zh"
+  short_description: "中文解读论文图表和证据链"
+  default_prompt: "Use $paper-figure-table-reading-zh to explain the figures and tables of this paper in Chinese."
